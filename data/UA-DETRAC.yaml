@@ -1,0 +1,12 @@
+
+train: D:\develop\datasets\UA-DETRAC-G2\images\train
+val: D:\develop\datasets\UA-DETRAC-G2\images\val
+
+nc: 4
+
+# Classes
+names:
+  0: car
+  1: bus
+  2: van
+  3: others
