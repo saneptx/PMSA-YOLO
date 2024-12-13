@@ -1,8 +1,0 @@
-names:
-  0: car
-  1: bus
-  2: van
-  3: others
-path: D:/develop/datasets/UA-DETRAC_K-Fold/split/split1/images
-train: train
-val: val
